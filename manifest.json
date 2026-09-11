@@ -1,0 +1,29 @@
+{
+  "name": "Temo | منيو مطعم تيمو",
+  "short_name": "Temo Menu",
+  "description": "منيو مطعم تيمو هوت ويتش: شاورما، برجر، مشويات، غربي، بروست وكريبات بأفضل جودة.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090706",
+  "theme_color": "#0b0908",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "assets/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo.jpg",
+      "sizes": "600x600",
+      "type": "image/jpeg"
+    }
+  ]
+}
